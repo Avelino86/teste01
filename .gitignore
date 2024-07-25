@@ -1,0 +1,1 @@
+# Ignorar arquivos temporários e desnecessários  *.log  *.tmp  *.swp  *.swo  .DS_Store  # Ignorar diretórios específicos  Desktop.ini  Thumbs.db 
